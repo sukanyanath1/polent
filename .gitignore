@@ -1,0 +1,15 @@
+data
+venv
+models
+log.log
+bert
+bert-base-uncased.log
+dse2qa.py
+Results.xlsx
+train.py
+slurm.sh
+out
+results
+__pycache__
+.ipynb_checkpoints
+metrics.py

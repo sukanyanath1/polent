@@ -1,0 +1,15 @@
+transformers[torch]
+spacy
+scikit-learn
+pandas
+datasets
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch
+torchvision
+torchaudio
+evaluate
+notebook
+matplotlib
+seaborn
+protobuf
+sentencepiece
